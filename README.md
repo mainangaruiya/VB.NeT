@@ -22,3 +22,30 @@ Module Module1
     End Sub
 
 End Module
+
+
+
+
+Module Module1
+
+    Sub Main()
+        Dim item() As String = {"sugar", "Rice", "bread", "Milk", "Cakes", "Soap"}
+
+        Dim price() As Integer = {200, 200, 65, 60, 99, 240}
+        total = 0
+
+        For i = 0 To 5 Step 1
+            console.Writeline(item(i) & vbTab& price(i))
+                total = total + price(i)
+        Next
+        console.Writeline("Total cost" & total)
+        console.Writeline("Enter amount paid")
+        payment = CInt(console.Readline())
+        change = payment - total
+        console.WriteLine("change" & change)
+        console.Readkey()
+
+    End Sub
+
+End Module
+
