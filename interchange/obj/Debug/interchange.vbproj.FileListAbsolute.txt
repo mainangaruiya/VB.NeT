@@ -1,0 +1,11 @@
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.vbproj.AssemblyReference.cache
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.Resources.resources
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.vbproj.GenerateResource.cache
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\interchange\bin\Debug\interchange.exe.config
+C:\Users\003pa\source\repos\interchange\bin\Debug\interchange.exe
+C:\Users\003pa\source\repos\interchange\bin\Debug\interchange.pdb
+C:\Users\003pa\source\repos\interchange\bin\Debug\interchange.xml
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.exe
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.xml
+C:\Users\003pa\source\repos\interchange\obj\Debug\interchange.pdb

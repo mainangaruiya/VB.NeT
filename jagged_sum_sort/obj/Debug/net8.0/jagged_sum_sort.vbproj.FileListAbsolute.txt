@@ -1,0 +1,14 @@
+C:\Users\003pa\source\repos\jagged_sum_sort\bin\Debug\net8.0\jagged_sum_sort.exe
+C:\Users\003pa\source\repos\jagged_sum_sort\bin\Debug\net8.0\jagged_sum_sort.deps.json
+C:\Users\003pa\source\repos\jagged_sum_sort\bin\Debug\net8.0\jagged_sum_sort.runtimeconfig.json
+C:\Users\003pa\source\repos\jagged_sum_sort\bin\Debug\net8.0\jagged_sum_sort.dll
+C:\Users\003pa\source\repos\jagged_sum_sort\bin\Debug\net8.0\jagged_sum_sort.pdb
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.AssemblyInfoInputs.cache
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.AssemblyInfo.vb
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.dll
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\refint\jagged_sum_sort.dll
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.pdb
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\jagged_sum_sort.genruntimeconfig.cache
+C:\Users\003pa\source\repos\jagged_sum_sort\obj\Debug\net8.0\ref\jagged_sum_sort.dll
