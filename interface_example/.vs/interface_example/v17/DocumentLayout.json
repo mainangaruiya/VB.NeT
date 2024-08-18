@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\003pa\\source\\repos\\interface_example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5A6CE-878D-475C-915D-AF0F5510701D}|interface_example.vbproj|c:\\users\\003pa\\source\\repos\\interface_example\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{02C5A6CE-878D-475C-915D-AF0F5510701D}|interface_example.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5A6CE-878D-475C-915D-AF0F5510701D}|interface_example.vbproj|c:\\users\\003pa\\source\\repos\\interface_example\\ishape.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{02C5A6CE-878D-475C-915D-AF0F5510701D}|interface_example.vbproj|solutionrelative:ishape.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C5A6CE-878D-475C-915D-AF0F5510701D}|interface_example.vbproj|c:\\users\\003pa\\source\\repos\\interface_example\\circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{02C5A6CE-878D-475C-915D-AF0F5510701D}|interface_example.vbproj|solutionrelative:circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\interface_example\\Circle.vb",
+              "RelativeDocumentMoniker": "Circle.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\interface_example\\Circle.vb",
+              "RelativeToolTip": "Circle.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T05:16:26.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ishape.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\interface_example\\Ishape.vb",
+              "RelativeDocumentMoniker": "Ishape.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\interface_example\\Ishape.vb",
+              "RelativeToolTip": "Ishape.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T05:14:27.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\interface_example\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\interface_example\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T06:19:30.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

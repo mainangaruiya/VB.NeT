@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\003pa\\source\\repos\\Exception Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0C4BC8-1209-4B5F-99D7-A74DBF0B30D8}|Exception Handling.vbproj|c:\\users\\003pa\\source\\repos\\exception handling\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8B0C4BC8-1209-4B5F-99D7-A74DBF0B30D8}|Exception Handling.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\Exception Handling\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\Exception Handling\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T05:22:27.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

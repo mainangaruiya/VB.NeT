@@ -1,0 +1,14 @@
+C:\Users\003pa\source\repos\module_circle\bin\Debug\net8.0\module_circle.exe
+C:\Users\003pa\source\repos\module_circle\bin\Debug\net8.0\module_circle.deps.json
+C:\Users\003pa\source\repos\module_circle\bin\Debug\net8.0\module_circle.runtimeconfig.json
+C:\Users\003pa\source\repos\module_circle\bin\Debug\net8.0\module_circle.dll
+C:\Users\003pa\source\repos\module_circle\bin\Debug\net8.0\module_circle.pdb
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.AssemblyInfoInputs.cache
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.AssemblyInfo.vb
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.dll
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\refint\module_circle.dll
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.pdb
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\module_circle.genruntimeconfig.cache
+C:\Users\003pa\source\repos\module_circle\obj\Debug\net8.0\ref\module_circle.dll

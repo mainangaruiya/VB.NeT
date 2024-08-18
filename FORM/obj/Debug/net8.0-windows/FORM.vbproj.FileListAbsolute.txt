@@ -1,0 +1,17 @@
+C:\Users\003pa\source\repos\FORM\bin\Debug\net8.0-windows\FORM.exe
+C:\Users\003pa\source\repos\FORM\bin\Debug\net8.0-windows\FORM.deps.json
+C:\Users\003pa\source\repos\FORM\bin\Debug\net8.0-windows\FORM.runtimeconfig.json
+C:\Users\003pa\source\repos\FORM\bin\Debug\net8.0-windows\FORM.dll
+C:\Users\003pa\source\repos\FORM\bin\Debug\net8.0-windows\FORM.pdb
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.Form1.resources
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.MainForm.resources
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.vbproj.GenerateResource.cache
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.AssemblyInfoInputs.cache
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.AssemblyInfo.vb
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.dll
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\refint\FORM.dll
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.pdb
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\FORM.genruntimeconfig.cache
+C:\Users\003pa\source\repos\FORM\obj\Debug\net8.0-windows\ref\FORM.dll

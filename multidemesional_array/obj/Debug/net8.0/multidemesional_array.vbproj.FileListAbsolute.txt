@@ -1,0 +1,14 @@
+C:\Users\003pa\source\repos\multidemesional_array\bin\Debug\net8.0\multidemesional_array.exe
+C:\Users\003pa\source\repos\multidemesional_array\bin\Debug\net8.0\multidemesional_array.deps.json
+C:\Users\003pa\source\repos\multidemesional_array\bin\Debug\net8.0\multidemesional_array.runtimeconfig.json
+C:\Users\003pa\source\repos\multidemesional_array\bin\Debug\net8.0\multidemesional_array.dll
+C:\Users\003pa\source\repos\multidemesional_array\bin\Debug\net8.0\multidemesional_array.pdb
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.AssemblyInfoInputs.cache
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.AssemblyInfo.vb
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.dll
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\refint\multidemesional_array.dll
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.pdb
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\multidemesional_array.genruntimeconfig.cache
+C:\Users\003pa\source\repos\multidemesional_array\obj\Debug\net8.0\ref\multidemesional_array.dll

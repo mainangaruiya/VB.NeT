@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\003pa\\source\\repos\\module_circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1501DF20-B180-432E-BE52-DD4D2EEECC28}|module_circle.vbproj|c:\\users\\003pa\\source\\repos\\module_circle\\module rectangle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1501DF20-B180-432E-BE52-DD4D2EEECC28}|module_circle.vbproj|solutionrelative:module rectangle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1501DF20-B180-432E-BE52-DD4D2EEECC28}|module_circle.vbproj|c:\\users\\003pa\\source\\repos\\module_circle\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1501DF20-B180-432E-BE52-DD4D2EEECC28}|module_circle.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1501DF20-B180-432E-BE52-DD4D2EEECC28}|module_circle.vbproj|c:\\users\\003pa\\source\\repos\\module_circle\\module circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1501DF20-B180-432E-BE52-DD4D2EEECC28}|module_circle.vbproj|solutionrelative:module circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module Rectangle.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\module_circle\\Module Rectangle.vb",
+              "RelativeDocumentMoniker": "Module Rectangle.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\module_circle\\Module Rectangle.vb",
+              "RelativeToolTip": "Module Rectangle.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T05:09:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module circle.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\module_circle\\Module circle.vb",
+              "RelativeDocumentMoniker": "Module circle.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\module_circle\\Module circle.vb",
+              "RelativeToolTip": "Module circle.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T04:51:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\module_circle\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\module_circle\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T04:50:22.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

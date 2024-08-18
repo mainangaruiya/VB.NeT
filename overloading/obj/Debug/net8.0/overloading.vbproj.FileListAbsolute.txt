@@ -1,0 +1,14 @@
+C:\Users\003pa\source\repos\overloading\bin\Debug\net8.0\overloading.exe
+C:\Users\003pa\source\repos\overloading\bin\Debug\net8.0\overloading.deps.json
+C:\Users\003pa\source\repos\overloading\bin\Debug\net8.0\overloading.runtimeconfig.json
+C:\Users\003pa\source\repos\overloading\bin\Debug\net8.0\overloading.dll
+C:\Users\003pa\source\repos\overloading\bin\Debug\net8.0\overloading.pdb
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.AssemblyInfoInputs.cache
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.AssemblyInfo.vb
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.dll
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\refint\overloading.dll
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.pdb
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\overloading.genruntimeconfig.cache
+C:\Users\003pa\source\repos\overloading\obj\Debug\net8.0\ref\overloading.dll

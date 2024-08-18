@@ -1,0 +1,14 @@
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.AssemblyInfoInputs.cache
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.AssemblyInfo.vb
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.vbproj.CoreCompileInputs.cache
+C:\Users\003pa\source\repos\class_account_accute\bin\Debug\net8.0\class_account_accute.exe
+C:\Users\003pa\source\repos\class_account_accute\bin\Debug\net8.0\class_account_accute.deps.json
+C:\Users\003pa\source\repos\class_account_accute\bin\Debug\net8.0\class_account_accute.runtimeconfig.json
+C:\Users\003pa\source\repos\class_account_accute\bin\Debug\net8.0\class_account_accute.dll
+C:\Users\003pa\source\repos\class_account_accute\bin\Debug\net8.0\class_account_accute.pdb
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.dll
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\refint\class_account_accute.dll
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.pdb
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\class_account_accute.genruntimeconfig.cache
+C:\Users\003pa\source\repos\class_account_accute\obj\Debug\net8.0\ref\class_account_accute.dll

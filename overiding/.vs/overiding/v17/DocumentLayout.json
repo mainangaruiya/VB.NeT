@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\003pa\\source\\repos\\overiding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C7E892-0358-40E8-80A8-5C6486299C6F}|overiding.vbproj|c:\\users\\003pa\\source\\repos\\overiding\\circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04C7E892-0358-40E8-80A8-5C6486299C6F}|overiding.vbproj|solutionrelative:circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C7E892-0358-40E8-80A8-5C6486299C6F}|overiding.vbproj|c:\\users\\003pa\\source\\repos\\overiding\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04C7E892-0358-40E8-80A8-5C6486299C6F}|overiding.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C7E892-0358-40E8-80A8-5C6486299C6F}|overiding.vbproj|c:\\users\\003pa\\source\\repos\\overiding\\shape.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04C7E892-0358-40E8-80A8-5C6486299C6F}|overiding.vbproj|solutionrelative:shape.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "circle.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\overiding\\circle.vb",
+              "RelativeDocumentMoniker": "circle.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\overiding\\circle.vb*",
+              "RelativeToolTip": "circle.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T05:39:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shape.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\overiding\\shape.vb",
+              "RelativeDocumentMoniker": "shape.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\overiding\\shape.vb",
+              "RelativeToolTip": "shape.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T05:38:19.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\overiding\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\overiding\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T05:37:12.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

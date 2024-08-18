@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF71E85-1B08-4594-A06D-A6CB1CEB0F1D}|class_account_accute.vbproj|c:\\users\\003pa\\source\\repos\\class_account_accute\\account.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8CF71E85-1B08-4594-A06D-A6CB1CEB0F1D}|class_account_accute.vbproj|solutionrelative:account.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF71E85-1B08-4594-A06D-A6CB1CEB0F1D}|class_account_accute.vbproj|c:\\users\\003pa\\source\\repos\\class_account_accute\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8CF71E85-1B08-4594-A06D-A6CB1CEB0F1D}|class_account_accute.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF71E85-1B08-4594-A06D-A6CB1CEB0F1D}|class_account_accute.vbproj|c:\\users\\003pa\\source\\repos\\class_account_accute\\actuate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8CF71E85-1B08-4594-A06D-A6CB1CEB0F1D}|class_account_accute.vbproj|solutionrelative:actuate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actuate.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\Actuate.vb",
+              "RelativeDocumentMoniker": "Actuate.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\Actuate.vb",
+              "RelativeToolTip": "Actuate.vb",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T05:45:26.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\Account.vb",
+              "RelativeDocumentMoniker": "Account.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\Account.vb",
+              "RelativeToolTip": "Account.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T05:24:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\003pa\\source\\repos\\class_account_accute\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T05:23:38.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
