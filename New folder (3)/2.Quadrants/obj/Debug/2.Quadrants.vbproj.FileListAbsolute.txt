@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\2.Quadrants\bin\Debug\2.Quadrants.exe.config
+C:\Users\moham\source\repos\2.Quadrants\bin\Debug\2.Quadrants.exe
+C:\Users\moham\source\repos\2.Quadrants\bin\Debug\2.Quadrants.pdb
+C:\Users\moham\source\repos\2.Quadrants\bin\Debug\2.Quadrants.xml
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\2.Quadrants.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\_2.Quadrants.Resources.resources
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\2.Quadrants.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\2.Quadrants.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\2.Quadrants.exe
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\2.Quadrants.xml
+C:\Users\moham\source\repos\2.Quadrants\obj\Debug\2.Quadrants.pdb

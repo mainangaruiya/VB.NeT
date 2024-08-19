@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\MyfirstApp\bin\Debug\net8.0\MyfirstApp.exe
+C:\Users\moham\source\repos\MyfirstApp\bin\Debug\net8.0\MyfirstApp.deps.json
+C:\Users\moham\source\repos\MyfirstApp\bin\Debug\net8.0\MyfirstApp.runtimeconfig.json
+C:\Users\moham\source\repos\MyfirstApp\bin\Debug\net8.0\MyfirstApp.dll
+C:\Users\moham\source\repos\MyfirstApp\bin\Debug\net8.0\MyfirstApp.pdb
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.AssemblyInfo.vb
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.dll
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\refint\MyfirstApp.dll
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.pdb
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\MyfirstApp.genruntimeconfig.cache
+C:\Users\moham\source\repos\MyfirstApp\obj\Debug\net8.0\ref\MyfirstApp.dll

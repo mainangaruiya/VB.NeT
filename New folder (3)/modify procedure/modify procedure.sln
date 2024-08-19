@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "modify procedure", "modify procedure.vbproj", "{88827742-B4B2-418F-9A29-8D04B7C1E0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88827742-B4B2-418F-9A29-8D04B7C1E0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88827742-B4B2-418F-9A29-8D04B7C1E0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88827742-B4B2-418F-9A29-8D04B7C1E0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88827742-B4B2-418F-9A29-8D04B7C1E0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B991C0DA-5FAD-4B55-A537-34480C377853}
+	EndGlobalSection
+EndGlobal

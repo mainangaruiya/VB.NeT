@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\1.Circle_radius\bin\Debug\1.Circle_radius.exe.config
+C:\Users\moham\source\repos\1.Circle_radius\bin\Debug\1.Circle_radius.exe
+C:\Users\moham\source\repos\1.Circle_radius\bin\Debug\1.Circle_radius.pdb
+C:\Users\moham\source\repos\1.Circle_radius\bin\Debug\1.Circle_radius.xml
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\1.Circle_radius.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\_1.Circle_radius.Resources.resources
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\1.Circle_radius.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\1.Circle_radius.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\1.Circle_radius.exe
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\1.Circle_radius.xml
+C:\Users\moham\source\repos\1.Circle_radius\obj\Debug\1.Circle_radius.pdb

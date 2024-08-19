@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|c:\\users\\moham\\source\\repos\\1.inheritance\\rectangle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|solutionrelative:rectangle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|C:\\Users\\moham\\source\\repos\\1.Inheritance\\circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|solutionrelative:circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|C:\\Users\\moham\\source\\repos\\1.Inheritance\\shape.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|solutionrelative:shape.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|C:\\Users\\moham\\source\\repos\\1.Inheritance\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39DADD9E-0941-485B-9833-201BF513CE11}|1.Inheritance.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Circle.vb",
+              "RelativeDocumentMoniker": "Circle.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Circle.vb",
+              "RelativeToolTip": "Circle.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T06:43:57.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Shape.vb",
+              "RelativeDocumentMoniker": "Shape.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Shape.vb",
+              "RelativeToolTip": "Shape.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T06:41:42.694Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T04:48:02.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Rectangle.vb",
+              "RelativeDocumentMoniker": "Rectangle.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\1.Inheritance\\Rectangle.vb",
+              "RelativeToolTip": "Rectangle.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T03:09:19.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\Array\bin\Debug\Array.exe.config
+C:\Users\moham\source\repos\Array\bin\Debug\Array.exe
+C:\Users\moham\source\repos\Array\bin\Debug\Array.pdb
+C:\Users\moham\source\repos\Array\bin\Debug\Array.xml
+C:\Users\moham\source\repos\Array\obj\Debug\Array.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Array\obj\Debug\Array.Resources.resources
+C:\Users\moham\source\repos\Array\obj\Debug\Array.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\Array\obj\Debug\Array.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Array\obj\Debug\Array.exe
+C:\Users\moham\source\repos\Array\obj\Debug\Array.xml
+C:\Users\moham\source\repos\Array\obj\Debug\Array.pdb

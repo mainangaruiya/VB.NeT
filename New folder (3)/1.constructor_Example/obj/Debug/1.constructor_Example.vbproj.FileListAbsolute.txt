@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\1.constructor_Example\bin\Debug\1.constructor_Example.exe.config
+C:\Users\moham\source\repos\1.constructor_Example\bin\Debug\1.constructor_Example.exe
+C:\Users\moham\source\repos\1.constructor_Example\bin\Debug\1.constructor_Example.pdb
+C:\Users\moham\source\repos\1.constructor_Example\bin\Debug\1.constructor_Example.xml
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\1.constructor_Example.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\_1.constructor_Example.Resources.resources
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\1.constructor_Example.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\1.constructor_Example.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\1.constructor_Example.exe
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\1.constructor_Example.xml
+C:\Users\moham\source\repos\1.constructor_Example\obj\Debug\1.constructor_Example.pdb

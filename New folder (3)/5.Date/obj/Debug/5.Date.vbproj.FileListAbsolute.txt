@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\5.Date\bin\Debug\5.Date.exe.config
+C:\Users\moham\source\repos\5.Date\bin\Debug\5.Date.exe
+C:\Users\moham\source\repos\5.Date\bin\Debug\5.Date.pdb
+C:\Users\moham\source\repos\5.Date\bin\Debug\5.Date.xml
+C:\Users\moham\source\repos\5.Date\obj\Debug\5.Date.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\5.Date\obj\Debug\_5.Date.Resources.resources
+C:\Users\moham\source\repos\5.Date\obj\Debug\5.Date.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\5.Date\obj\Debug\5.Date.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\5.Date\obj\Debug\5.Date.exe
+C:\Users\moham\source\repos\5.Date\obj\Debug\5.Date.xml
+C:\Users\moham\source\repos\5.Date\obj\Debug\5.Date.pdb

@@ -1,0 +1,17 @@
+C:\Users\moham\source\repos\Arithmetic_App\bin\Debug\net8.0-windows\Arithmetic_App.exe
+C:\Users\moham\source\repos\Arithmetic_App\bin\Debug\net8.0-windows\Arithmetic_App.deps.json
+C:\Users\moham\source\repos\Arithmetic_App\bin\Debug\net8.0-windows\Arithmetic_App.runtimeconfig.json
+C:\Users\moham\source\repos\Arithmetic_App\bin\Debug\net8.0-windows\Arithmetic_App.dll
+C:\Users\moham\source\repos\Arithmetic_App\bin\Debug\net8.0-windows\Arithmetic_App.pdb
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.Form1.resources
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.Form2.resources
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.AssemblyInfo.vb
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.dll
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\refint\Arithmetic_App.dll
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.pdb
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\Arithmetic_App.genruntimeconfig.cache
+C:\Users\moham\source\repos\Arithmetic_App\obj\Debug\net8.0-windows\ref\Arithmetic_App.dll

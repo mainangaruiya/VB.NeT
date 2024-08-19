@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF7AF45-E939-444F-B03B-9A8F2404B960}|Polymorphism.vbproj|c:\\users\\moham\\source\\repos\\polymorphism\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CBF7AF45-E939-444F-B03B-9A8F2404B960}|Polymorphism.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF7AF45-E939-444F-B03B-9A8F2404B960}|Polymorphism.vbproj|C:\\Users\\moham\\source\\repos\\Polymorphism\\circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CBF7AF45-E939-444F-B03B-9A8F2404B960}|Polymorphism.vbproj|solutionrelative:circle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\Polymorphism\\Circle.vb",
+              "RelativeDocumentMoniker": "Circle.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\Polymorphism\\Circle.vb",
+              "RelativeToolTip": "Circle.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T05:06:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\Polymorphism\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\Polymorphism\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-02T05:05:58.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

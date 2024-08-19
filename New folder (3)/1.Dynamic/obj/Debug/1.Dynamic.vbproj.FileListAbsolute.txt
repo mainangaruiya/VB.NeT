@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\1.Dynamic\bin\Debug\1.Dynamic.exe.config
+C:\Users\moham\source\repos\1.Dynamic\bin\Debug\1.Dynamic.exe
+C:\Users\moham\source\repos\1.Dynamic\bin\Debug\1.Dynamic.pdb
+C:\Users\moham\source\repos\1.Dynamic\bin\Debug\1.Dynamic.xml
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\1.Dynamic.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\_1.Dynamic.Resources.resources
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\1.Dynamic.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\1.Dynamic.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\1.Dynamic.exe
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\1.Dynamic.xml
+C:\Users\moham\source\repos\1.Dynamic\obj\Debug\1.Dynamic.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\1.constructor_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9B85D7-4321-4CD4-8BE2-2C7B50D0D068}|1.constructor_Example.vbproj|c:\\users\\moham\\source\\repos\\1.constructor_example\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C9B85D7-4321-4CD4-8BE2-2C7B50D0D068}|1.constructor_Example.vbproj|solutionrelative:student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9B85D7-4321-4CD4-8BE2-2C7B50D0D068}|1.constructor_Example.vbproj|C:\\Users\\moham\\source\\repos\\1.constructor_Example\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C9B85D7-4321-4CD4-8BE2-2C7B50D0D068}|1.constructor_Example.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\1.constructor_Example\\Student.vb",
+              "RelativeDocumentMoniker": "Student.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\1.constructor_Example\\Student.vb",
+              "RelativeToolTip": "Student.vb",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T05:03:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\1.constructor_Example\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\1.constructor_Example\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T05:02:45.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

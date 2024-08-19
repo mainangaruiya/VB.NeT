@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.Resources.resources
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\circle2\bin\Debug\circle2.exe.config
+C:\Users\moham\source\repos\circle2\bin\Debug\circle2.exe
+C:\Users\moham\source\repos\circle2\bin\Debug\circle2.pdb
+C:\Users\moham\source\repos\circle2\bin\Debug\circle2.xml
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.exe
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.xml
+C:\Users\moham\source\repos\circle2\obj\Debug\circle2.pdb

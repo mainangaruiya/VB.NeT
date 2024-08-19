@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\modify procedure\bin\Debug\modify procedure.exe.config
+C:\Users\moham\source\repos\modify procedure\bin\Debug\modify procedure.exe
+C:\Users\moham\source\repos\modify procedure\bin\Debug\modify procedure.pdb
+C:\Users\moham\source\repos\modify procedure\bin\Debug\modify procedure.xml
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify procedure.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify_procedure.Resources.resources
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify procedure.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify procedure.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify procedure.exe
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify procedure.xml
+C:\Users\moham\source\repos\modify procedure\obj\Debug\modify procedure.pdb

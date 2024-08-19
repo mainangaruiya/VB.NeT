@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\1.Inheritance\bin\Debug\1.Inheritance.exe.config
+C:\Users\moham\source\repos\1.Inheritance\bin\Debug\1.Inheritance.exe
+C:\Users\moham\source\repos\1.Inheritance\bin\Debug\1.Inheritance.pdb
+C:\Users\moham\source\repos\1.Inheritance\bin\Debug\1.Inheritance.xml
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\1.Inheritance.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\_1.Inheritance.Resources.resources
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\1.Inheritance.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\1.Inheritance.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\1.Inheritance.exe
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\1.Inheritance.xml
+C:\Users\moham\source\repos\1.Inheritance\obj\Debug\1.Inheritance.pdb

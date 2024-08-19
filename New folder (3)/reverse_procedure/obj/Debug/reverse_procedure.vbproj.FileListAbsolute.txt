@@ -1,0 +1,11 @@
+C:\Users\moham\source\repos\reverse_procedure\bin\Debug\reverse_procedure.exe.config
+C:\Users\moham\source\repos\reverse_procedure\bin\Debug\reverse_procedure.exe
+C:\Users\moham\source\repos\reverse_procedure\bin\Debug\reverse_procedure.pdb
+C:\Users\moham\source\repos\reverse_procedure\bin\Debug\reverse_procedure.xml
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.vbproj.AssemblyReference.cache
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.Resources.resources
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.vbproj.GenerateResource.cache
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.vbproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.exe
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.xml
+C:\Users\moham\source\repos\reverse_procedure\obj\Debug\reverse_procedure.pdb
